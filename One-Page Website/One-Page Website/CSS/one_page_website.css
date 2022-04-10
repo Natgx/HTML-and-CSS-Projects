@@ -1,0 +1,63 @@
+.for_text {
+    font-family: "Impact", Consolas;
+    font-size: 25px;
+}
+
+.reservation input[type="text"] {
+    outline: none;
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+    padding: 1% .5% 1% .5%;
+    width: 50%;
+    border-top: 1px solid #090B0D;
+    border-right: 1px solid #424549;
+    border-bottom: 1px solid #424549;
+    border-left: 1px solid #090B0D;
+    margin: 10px;
+    border-radius: 15px;
+    background: #3f6b3b;
+    box-shadow: inset 0px 3px 0px 0px rgba(5, 5, 5, 0.15);
+    font-family: "Raleway", sans-serif;
+}
+
+.reservation input[type="password"] {
+    outline: none;
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+    padding: 1% .5% 1% .5%;
+    width: 50%;
+    border-top: 1px solid #090B0D;
+    border-right: 1px solid #424549;
+    border-bottom: 1px solid #424549;
+    border-left: 1px solid #090B0D;
+    margin: 10px;
+    border-radius: 15px;
+    background: #3f6b3b;
+    box-shadow: inset 0px 3px 0px 0px rgba(5, 5, 5, 0.15);
+    font-family: "Raleway", sans-serif;
+}
+
+.reservation input[type="email"] {
+    outline: none;
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+    padding: 1% .5% 1% .5%;
+    width: 50%;
+    border-top: 1px solid #090B0D;
+    border-right: 1px solid #424549;
+    border-bottom: 1px solid #424549;
+    border-left: 1px solid #090B0D;
+    margin: 10px;
+    border-radius: 15px;
+    background: #3f6b3b;
+    box-shadow: inset 0px 3px 0px 0px rgba(5, 5, 5, 0.15);
+    font-family: "Raleway", sans-serif;
+}
+
+.reservation input[type="text"]:hover {
+    box-shadow: 0 0 18px rgba(100, 65, 0, .8);
+}
+
